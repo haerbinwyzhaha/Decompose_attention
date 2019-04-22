@@ -6,7 +6,8 @@ A Decomposable Attention Model for Natural Language Inference
 
 
 achieve model in Article
-test-set achieve 86.3
+
+testset achieve 86.3 acc
 
 train:
 python train.py
