@@ -1,0 +1,147 @@
+-------------------- Config Imformation --------------------
+embedding_size  : 300
+optimizer       : adagrad
+best_path       : ./best_model/default_version.ckpt
+save_frequency  : 60000
+learning_rate   : 0.05
+clip_value      : 100
+batch_size      : 64
+keep            : 0.8
+load_model      : ./save_model/default_version.ckpt
+embedding_path  : ./DATA/embedding.npy
+epoch           : 100
+max_length      : 100
+l2              : 0
+save_path       : ./save_model/default_version.ckpt
+hidden_size     : 200
+class_size      : 3
+BestDev.Acc     : 0.8604697
+BestTrain.Acc   : 0.84261847
+TimeCost        : 2:49:47
+------------------------------------------------------------
+-------------------- Config Imformation --------------------
+embedding_size  : 300
+optimizer       : adagrad
+best_path       : ./best_model/default_version.ckpt
+save_frequency  : 60000
+learning_rate   : 0.05
+clip_value      : 100
+batch_size      : 64
+keep            : 0.8
+load_model      : ./save_model/default_version.ckpt
+embedding_path  : ./DATA/embedding.npy
+epoch           : 300
+max_length      : 100
+l2              : 0
+save_path       : ./save_model/default_version.ckpt
+hidden_size     : 200
+class_size      : 3
+BestDev.Acc     : 0.8635776
+BestTrain.Acc   : 0.85422105
+TimeCost        : 8:20:43
+------------------------------------------------------------
+-------------------- Config Imformation --------------------
+embedding_size  : 300
+optimizer       : adagrad
+best_path       : ./best_model/test.ckpt
+save_frequency  : 60000
+learning_rate   : 0.05
+clip_value      : 100
+batch_size      : 64
+keep            : 0.8
+load_model      : ./save_model/default_version.ckpt
+embedding_path  : ./DATA/embedding.npy
+epoch           : 1
+max_length      : 100
+l2              : 0
+save_path       : ./save_model/test.ckpt
+hidden_size     : 200
+class_size      : 3
+BestDev.Acc     : 0.7119468
+BestTrain.Acc   : 0.6059385
+TimeCost        : 0:01:47
+------------------------------------------------------------
+-------------------- Config Imformation --------------------
+embedding_size  : 300
+optimizer       : adagrad
+best_path       : ./best_model/test.ckpt
+save_frequency  : 60000
+learning_rate   : 0.05
+clip_value      : 100
+batch_size      : 64
+keep            : 0.8
+load_model      : ./save_model/default_version.ckpt
+embedding_path  : ./DATA/embedding.npy
+epoch           : 1
+max_length      : 100
+l2              : 0
+save_path       : ./save_model/test.ckpt
+hidden_size     : 200
+class_size      : 3
+BestDev.Acc     : 0.7161832
+BestTrain.Acc   : 0.6125496
+TimeCost        : 0:01:47
+------------------------------------------------------------
+-------------------- Config Imformation --------------------
+embedding_size  : 300
+optimizer       : adagrad
+best_path       : ./best_model/test.ckpt
+save_frequency  : 60000
+learning_rate   : 0.05
+clip_value      : 100
+batch_size      : 64
+keep            : 0.8
+load_model      : ./save_model/default_version.ckpt
+embedding_path  : ./DATA/embedding.npy
+epoch           : 1
+max_length      : 100
+l2              : 0
+save_path       : ./save_model/test.ckpt
+hidden_size     : 200
+class_size      : 3
+BestDev.Acc     : 0.6890682
+BestTrain.Acc   : 0.5952718
+TimeCost        : 0:01:54
+------------------------------------------------------------
+-------------------- Config Imformation --------------------
+embedding_size  : 300
+optimizer       : adagrad
+best_path       : ./best_model/default_64.ckpt
+save_frequency  : 60000
+learning_rate   : 0.05
+clip_value      : 100
+batch_size      : 64
+keep            : 0.8
+load_model      : ./save_model/default_version.ckpt
+embedding_path  : ./DATA/embedding.npy
+epoch           : 300
+max_length      : 100
+l2              : 0
+save_path       : ./save_model/default_64.ckpt
+hidden_size     : 200
+class_size      : 3
+BestDev.Acc     : 0.8639959
+BestTrain.Acc   : 0.85482806
+TimeCost        : 8:24:08
+------------------------------------------------------------
+-------------------- Config Imformation --------------------
+embedding_size  : 300
+optimizer       : adagrad
+best_path       : ./best_model/final_version.ckpt
+save_frequency  : 60000
+learning_rate   : 0.05
+clip_value      : 100
+batch_size      : 4
+keep            : 0.8
+load_model      : ./save_model/default_version.ckpt
+embedding_path  : ./DATA/embedding.npy
+epoch           : 100
+max_length      : 100
+l2              : 0
+save_path       : ./save_model/final_version.ckpt
+hidden_size     : 200
+class_size      : 3
+BestDev.Acc     : 0.85543585
+BestTrain.Acc   : 0.84243166
+TimeCost        : 21:58:17
+------------------------------------------------------------
